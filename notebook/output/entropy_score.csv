@@ -1,0 +1,10 @@
+scores,features
+0.9686871,Types of machine
+0.9657107,Maximum number of tools available
+1.0358655,Maximum number of operation available
+1.0312675,Tool magazine or tool turret capacity
+0.940154,Tool changing time
+1.0242769,Type of operations to be done on machine
+0.8979457,Variety of parts to be handled by the machine
+1.00107,Skills and versatility of workers
+0.91101927,Setup or changeover time
